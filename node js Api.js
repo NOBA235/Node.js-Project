@@ -27,7 +27,11 @@
 4. Advanced APIs
 - Worker Threads (worker_threads): Run JavaScript in parallel threads.
 - Cluster (cluster): Scale applications across multiple CPU cores.
-- VM (vm
+ - VM (vm): Run code in isolated contexts.
+- Inspector (inspector): Debugging tools.
+- WebAssembly & Web Crypto API: Modern web standards integration.
+
+
 
 
 

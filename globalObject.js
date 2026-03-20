@@ -1,6 +1,11 @@
 console.log(global);// This will print a huge object containing built-in stuff
 
 /*
+
+In Node.js, the global object is the top-level object that provides application-wide variables and functions, similar to the window object in browsers. Anything attached to global can be accessed from any file in your Node.js application without requiring imports.
+
+
+
 global
 ✅ Example
 console.log(global);
